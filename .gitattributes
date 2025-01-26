@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+insane/fr/STBSkins7DPC-14.zip filter=lfs diff=lfs merge=lfs -text
