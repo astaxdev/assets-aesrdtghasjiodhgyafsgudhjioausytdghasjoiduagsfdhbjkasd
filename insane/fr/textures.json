@@ -1,92 +1,92 @@
 {
     "4e50c71ba1d5acef7895fde7e41f000c12de0e76": {
       "title": "Stumble Bolt",
-      "var": "stb_bolt"
+      "var": "stb_bolt",
       "col": 6
     },
     "dee3907df7083d42eb5b4c422cd305c1ca727bcc": {
       "title": "Stumble Bolt 2",
-      "var": "stb2_bolt"
+      "var": "stb2_bolt",
       "col": 7
     },
     "007db4ad9df15b1f244efe73970381e197cbd725": {
       "title": "Stumble Godz",
-      "var": "stbg_bolt"
+      "var": "stbg_bolt",
       "col": 6
     },
     "c37e4648ed06c16eb7982320f592534ae58ef252": {
       "title": "Stumble Godz Exclusiva",
-      "var": "stbgex_bolt"
+      "var": "stbgex_bolt",
       "col": 6
     },
     "a8666b5fe50214ad708038d80fa4ffd4f4e7456a": {
       "title": "Stumble Pink",
-      "var": "stbp_bolt"
+      "var": "stbp_bolt",
       "col": 6
     },
     "3c24d5976d261e3d751b6454e4a9e463a272412e": {
       "title": "Mega Lite",
-      "var": "mglt_bolt"
+      "var": "mglt_bolt",
       "col": 14
     },
     "9f572d7c038b84cfee6acaa6cee9f4aad5c6346a": {
       "title": "Mega Lite 2",
-      "var": "mglt2_bolt"
+      "var": "mglt2_bolt",
       "col": 7
     },
     "e8409513d0fccb63afc6b87deed07bdc6dde241d": {
       "title": "Mega Lite Reshade",
-      "var": "mgltre_bolt"
+      "var": "mgltre_bolt",
       "col": 14
     },
     "6d9c374007c2dccdc607cd1fa2cd8893dcfc27fd": {
       "title": "Reshade",
-      "var": "re_bolt"
+      "var": "re_bolt",
       "col": 12
     },
     "0c7518a73397dabf1a3d2ec35dd286dc8cb00adb": {
       "title": "Bolt Água",
-      "var": "boltagua_bolt"
+      "var": "boltagua_bolt",
       "col": 7
     },
     "ac706464f8a3abc6fef52c13fe41b8b06bcef78a": {
       "title": "Bolt AstaxZz",
-      "var": "boltastaxzz_bolt"
+      "var": "boltastaxzz_bolt",
       "col": 2
     },
     "87de83bdbc9d2858165ed66775d65e7128008eb1": {
       "title": "Bolt Ween",
-      "var": "boltween_bolt"
+      "var": "boltween_bolt",
       "col": 10
     },
     "2ee2846552f6036e77ff94f2db56c834deb5b07f": {
       "title": "Goti Green",
-      "var": "goti_bolt"
+      "var": "goti_bolt",
       "col": 3
     },
     "0d0e5281c8e617fe08f2ed8797765d9e207875eb": {
       "title": "Goti Cartoon",
-      "var": "toon_bolt"
+      "var": "toon_bolt",
       "col": 16
     },
     "1f881140b1406476290b72753b7c7c976a181aae": {
       "title": "Galaxy Bolt",
-      "var": "glxbolt_bolt"
+      "var": "glxbolt_bolt",
       "col": 6
     },
     "403f8387c6162a9b64c4e185fd5638f8b311959a": {
       "title": "Galaxy Kiro",
-      "var": "glxkiro_bolt"
+      "var": "glxkiro_bolt",
       "col": 6
     },
     "966a3e02bd49050c19a9641c04f8553a756d98f7": {
       "title": "Dark Uva",
-      "var": "dku_bolt"
+      "var": "dku_bolt",
       "col": 6
     },
     "26f8e3b740864cf4b81077a0ca16d96b3ab1e723": {
       "title": "Yellow Otimizada",
-      "var": "ylw_bolt"
+      "var": "ylw_bolt",
       "col": 12
     }
   }
