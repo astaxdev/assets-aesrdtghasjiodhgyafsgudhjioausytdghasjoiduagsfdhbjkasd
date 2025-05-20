@@ -1,4 +1,11 @@
 {
+    "4e50c71ba1d5acef7895fde7e41f000c12de0e76122131231231231": {
+      "title": "Stumble Bolt 0.56",
+      "is_056": true,
+      "var_low": "056_stb_low",
+      "var_data": "056_stb_data",
+      "col": 6
+    },
     "4e50c71ba1d5acef7895fde7e41f000c12de0e76": {
       "title": "Stumble Bolt",
       "var": "stb_bolt",
