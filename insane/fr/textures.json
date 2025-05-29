@@ -1,13 +1,13 @@
 {
-    "6eab90b745dfafc5478c3fd7f3b4daffbd853e9a": {
-      "title": "Stumble Bolt 0.56",
+    "66580130f7aa1a3d0299d5cdc6de2767a82d9e5d": {
+      "title": "StumbleBolt 0.56",
       "is_056": true,
       "var_low": "056_stb_low",
       "var_data": "056_stb_data",
       "col": 6
     },
-    "14d5fe14467cf605a0ccf084829ca7957681c003": {
-      "title": "Stumble Bolt2 0.56",
+    "a380da8d7c3011d52e67a241bcf3b4303b560598": {
+      "title": "StumbleBolt2 0.56",
       "is_056": true,
       "var_low": "056_stb2_low",
       "var_data": "056_stb2_data",
@@ -27,110 +27,110 @@
       "var_data": "056_mglt2_data",
       "col": 7
     },
-    "4e50c71ba1d5acef7895fde7e41f000c12de0e76": {
-      "title": "Stumble Bolt",
+    "d02cc3784cd2a444a04c2a89c1884979ab750926": {
+      "title": "StumbleBolt OFC",
       "is_056": false,
       "var": "stb_bolt",
       "col": 6
     },
-    "dee3907df7083d42eb5b4c422cd305c1ca727bcc": {
-      "title": "Stumble Bolt 2",
+    "f0ccdc017e9b52fc2cdb63e1cc9dc07125ceef77": {
+      "title": "StumbleBolt2 OFC",
       "is_056": false,
       "var": "stb2_bolt",
       "col": 7
     },
-    "007db4ad9df15b1f244efe73970381e197cbd725": {
-      "title": "Stumble Godz",
+    "a3a2aa02ab0e3a8a542f0d1b2ae1c794623d0376": {
+      "title": "StumbleGodz OFC",
       "is_056": false,
       "var": "stbg_bolt",
       "col": 6
     },
-    "c37e4648ed06c16eb7982320f592534ae58ef252": {
-      "title": "Stumble Godz Exclusiva",
+    "f49705ec8ebb49de0860b2d7222e9c231093360f": {
+      "title": "StumbleGodzExc OFC",
       "is_056": false,
       "var": "stbgex_bolt",
       "col": 6
     },
-    "a8666b5fe50214ad708038d80fa4ffd4f4e7456a": {
-      "title": "Stumble Pink",
+    "c4e98cf86bfe1b1612a6516c81a419a7aa6ab86a": {
+      "title": "StumblePink OFC",
       "is_056": false,
       "var": "stbp_bolt",
       "col": 14
     },
-    "3c24d5976d261e3d751b6454e4a9e463a272412e": {
-      "title": "Mega Lite",
+    "56761ab2bfe588b3849bfb27927f0aebec08fdf5": {
+      "title": "MegaLite OFC",
       "is_056": false,
       "var": "mglt_bolt",
       "col": 6
     },
-    "9f572d7c038b84cfee6acaa6cee9f4aad5c6346a": {
-      "title": "Mega Lite 2",
+    "07797a87ca30193c0a5ce5285572971a99004f7c": {
+      "title": "MegaLite2 OFC",
       "is_056": false,
       "var": "mglt2_bolt",
       "col": 7
     },
-    "e8409513d0fccb63afc6b87deed07bdc6dde241d": {
-      "title": "Mega Lite Reshade",
+    "7466109936efccc0ab0fec8984be87beb6f4d346": {
+      "title": "MegaLiteReshade OFC",
       "is_056": false,
       "var": "mgltre_bolt",
       "col": 14
     },
-    "6d9c374007c2dccdc607cd1fa2cd8893dcfc27fd": {
-      "title": "Reshade",
+    "c19cac4172063cca5ee7ef137166457de11d4054": {
+      "title": "Reshade OFC",
       "is_056": false,
       "var": "re_bolt",
       "col": 12
     },
-    "86aa59508c29e5ff4440565aff2c3edada5a0830": {
-      "title": "Bolt Agua",
+    "d45adb9174e2fd21c00e675dc2b7c2d1d4e11434": {
+      "title": "BoltAgua OFC",
       "is_056": false,
       "var": "boltagua_bolt",
       "col": 7
     },
-    "ac706464f8a3abc6fef52c13fe41b8b06bcef78a": {
-      "title": "Bolt AstaxZz",
+    "aea8c2fe19a1a556590dd8ee5483e2ebf3326819": {
+      "title": "BoltAstaxZz OFC",
       "is_056": false,
       "var": "boltastaxzz_bolt",
       "col": 2
     },
-    "87de83bdbc9d2858165ed66775d65e7128008eb1": {
-      "title": "Bolt Ween",
+    "f1648f8f23f14cbd47826dd4db81c549b87daf10": {
+      "title": "BoltWeen OFC",
       "is_056": false,
       "var": "boltween_bolt",
       "col": 10
     },
-    "2ee2846552f6036e77ff94f2db56c834deb5b07f": {
-      "title": "Goti Green",
+    "c25bbc37478131045c2ecd3fdf2e43859698149a": {
+      "title": "GotiGreen OFC",
       "is_056": false,
       "var": "goti_bolt",
       "col": 3
     },
-    "0d0e5281c8e617fe08f2ed8797765d9e207875eb": {
-      "title": "Goti Cartoon",
+    "828e0740397fc12278d3081887a85637726ee67c": {
+      "title": "GotiCartoon OFC",
       "is_056": false,
       "var": "toon_bolt",
       "col": 16
     },
-    "1f881140b1406476290b72753b7c7c976a181aae": {
-      "title": "Galaxy Bolt",
+    "0a618dd314369564b24ae2be355ed3712f579a78": {
+      "title": "GalaxyBolt OFC",
       "is_056": false,
       "var": "glxbolt_bolt",
       "col": 6
     },
-    "403f8387c6162a9b64c4e185fd5638f8b311959a": {
-      "title": "Galaxy Kiro",
+    "8f1343b6d878e1d4a55a20fbc18eeced92158e27": {
+      "title": "GalaxyKiro OFC",
       "is_056": false,
       "var": "glxkiro_bolt",
       "col": 6
     },
-    "966a3e02bd49050c19a9641c04f8553a756d98f7": {
-      "title": "Dark Uva",
+    "9cb1ecea3112ce27f93286973c97c9d13ba7d37a": {
+      "title": "DarkUva OFC",
       "is_056": false,
       "var": "dku_bolt",
       "col": 6
     },
-    "26f8e3b740864cf4b81077a0ca16d96b3ab1e723": {
-      "title": "Yellow Otimizada",
+    "0a0daae31bdb9760a26de9f6d8feef52db4d9c7a": {
+      "title": "YellowOtimizada OFC",
       "is_056": false,
       "var": "ylw_bolt",
       "col": 12
