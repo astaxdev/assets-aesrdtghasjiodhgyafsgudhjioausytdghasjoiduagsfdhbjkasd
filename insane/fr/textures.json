@@ -11,7 +11,7 @@
       "is_056": true,
       "var_low": "056_stb2_low",
       "var_data": "056_stb2_data",
-      "col": 6
+      "col": 7
     },
     "cbd0fb8091c8e458eea739b7606b3eb8816ff822": {
       "title": "MegaLite 0.56",
@@ -25,7 +25,7 @@
       "is_056": true,
       "var_low": "056_mglt2_low",
       "var_data": "056_mglt2_data",
-      "col": 6
+      "col": 7
     },
     "4e50c71ba1d5acef7895fde7e41f000c12de0e76": {
       "title": "Stumble Bolt",
