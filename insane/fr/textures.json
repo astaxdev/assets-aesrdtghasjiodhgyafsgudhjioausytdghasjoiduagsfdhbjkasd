@@ -6,6 +6,27 @@
       "var_data": "056_stb_data",
       "col": 6
     },
+    "14d5fe14467cf605a0ccf084829ca7957681c003": {
+      "title": "Stumble Bolt2 0.56",
+      "is_056": true,
+      "var_low": "056_stb2_low",
+      "var_data": "056_stb2_data",
+      "col": 6
+    },
+    "cbd0fb8091c8e458eea739b7606b3eb8816ff822": {
+      "title": "MegaLite 0.56",
+      "is_056": true,
+      "var_low": "056_mglt_low",
+      "var_data": "056_mglt_data",
+      "col": 6
+    },
+    "21cfd7d6d6b38de027ef35965d5fa674edbfeb4d": {
+      "title": "MegaLite2 0.56",
+      "is_056": true,
+      "var_low": "056_mglt2_low",
+      "var_data": "056_mglt2_data",
+      "col": 6
+    },
     "4e50c71ba1d5acef7895fde7e41f000c12de0e76": {
       "title": "Stumble Bolt",
       "is_056": false,
