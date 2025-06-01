@@ -134,6 +134,113 @@
       "is_056": false,
       "var": "ylw_bolt",
       "col": 12
+    },
+    "ba9f8c3cd70f1815b049438692c84e5c5640fb0a": {
+      "title": "StumbleBolt RVV",
+      "is_056": false,
+      "var": "rvv_stb",
+      "col": 6
+    },
+    "602efe197a89fb96868a4bd72a92fed84146699a": {
+      "title": "StumbleBolt2 RVV",
+      "is_056": false,
+      "var": "rvv_stb2",
+      "col": 7
+    },
+    "5eb156c735dd5ce8e89d87569b5136c1e8c1df7c": {
+      "title": "StumbleGodz RVV",
+      "is_056": false,
+      "var": "rvv_stbg",
+      "col": 6
+    },
+    "8706e192bf02fa33ff05acbe715f3ad1d4a335e8": {
+      "title": "StumbleGodzExc RVV",
+      "is_056": false,
+      "var": "rvv_stbgex",
+      "col": 6
+    },
+    "18446aced96b2a891f3e26f43d46905668280b12": {
+      "title": "StumblePink RVV",
+      "is_056": false,
+      "var": "rvv_stbp",
+      "col": 14
+    },
+    "192435c162f199f8c5707b86ed7466c9994f5642": {
+      "title": "MegaLite RVV",
+      "is_056": false,
+      "var": "rvv_mglt",
+      "col": 6
+    },
+    "0e3e5302dd6340f096fe1b9fbcb1afa24b35a847": {
+      "title": "MegaLite2 RVV",
+      "is_056": false,
+      "var": "rvv_mglt2",
+      "col": 7
+    },
+    "048b82575acdbed20037db8451449ae99c4028b9": {
+      "title": "MegaLiteReshade RVV",
+      "is_056": false,
+      "var": "rvv_mgltre",
+      "col": 14
+    },
+    "d5de7260c3961cc9c5cf1fe22fa86237f96299d8": {
+      "title": "Reshade RVV",
+      "is_056": false,
+      "var": "rvv_re",
+      "col": 12
+    },
+    "c6f0be0f28a48d724e9bfeb06eb916ab8b1fcc06": {
+      "title": "BoltAgua RVV",
+      "is_056": false,
+      "var": "rvv_boltagua",
+      "col": 7
+    },
+    "c1abbee577bfb52ccc19c94c2de0ede813f087ed": {
+      "title": "BoltAstaxZz RVV",
+      "is_056": false,
+      "var": "rvv_boltastaxzz",
+      "col": 2
+    },
+    "6eae6870184029329c0ba66311903b9b11cb21f2": {
+      "title": "BoltWeen RVV",
+      "is_056": false,
+      "var": "rvv_boltween",
+      "col": 10
+    },
+    "5757a4fff3bb1ff369cd8f9e0f4c97a6e6c35438": {
+      "title": "GotiGreen RVV",
+      "is_056": false,
+      "var": "rvv_goti",
+      "col": 3
+    },
+    "3d77e21620395cd08f90250ccfc310e093f99976": {
+      "title": "GotiCartoon RVV",
+      "is_056": false,
+      "var": "rvv_toon",
+      "col": 16
+    },
+    "e42151c4373a34190ff8f3e3254d5a40ad0817d6": {
+      "title": "GalaxyBolt RVV",
+      "is_056": false,
+      "var": "rvv_glxbolt",
+      "col": 6
+    },
+    "c20381e5ca9a2f19e81bf9086626722fbaddca46": {
+      "title": "GalaxyKiro RVV",
+      "is_056": false,
+      "var": "rvv_glxkiro",
+      "col": 6
+    },
+    "b104274e5b849e65e5b60f077b54fa51be79acdb": {
+      "title": "DarkUva RVV",
+      "is_056": false,
+      "var": "rvv_dku",
+      "col": 6
+    },
+    "5de1b5201d0b0e73f5b2f4192485392e26b9de7c": {
+      "title": "YellowOtimizada RVV",
+      "is_056": false,
+      "var": "rvv_ylw",
+      "col": 12
     }
   }
-  
