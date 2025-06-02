@@ -163,6 +163,12 @@
       "var": "ylw_bolt",
       "col": 12
     },
+    "fed2d6d3175df892132c01826049eccb4cf362f5": {
+      "title": "SemTextura RVV",
+      "is_056": false,
+      "var": "rvv_stxt",
+      "col": 2
+    },
     "ba9f8c3cd70f1815b049438692c84e5c5640fb0a": {
       "title": "StumbleBolt RVV",
       "is_056": false,
