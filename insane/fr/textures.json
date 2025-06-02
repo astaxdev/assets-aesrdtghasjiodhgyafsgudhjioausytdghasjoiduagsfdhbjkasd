@@ -27,6 +27,34 @@
       "var_data": "056_mglt2_data",
       "col": 7
     },
+    "2bd688b8335e19f672fb3890707a2d1c0c4da6db": {
+      "title": "MegaLiteReshade 0.56",
+      "is_056": true,
+      "var_low": "056_mgltre_low",
+      "var_data": "056_mgltre_data",
+      "col": 6
+    },
+    "4dc7a15f33682a6959787750873dbbabc8f84efc": {
+      "title": "Reshade 0.56",
+      "is_056": true,
+      "var_low": "056_re_low",
+      "var_data": "056_re_data",
+      "col": 7
+    },
+    "0827e4e5b57d7ac34f34ef8543b800cae4631477": {
+      "title": "GotiGreen 0.56",
+      "is_056": true,
+      "var_low": "056_goti_low",
+      "var_data": "056_goti_data",
+      "col": 6
+    },
+    "85bd0bd67f77feb80c63324a203be61b80e36d6e": {
+      "title": "GotiCartoon 0.56",
+      "is_056": true,
+      "var_low": "056_toon_low",
+      "var_data": "056_toon_data",
+      "col": 7
+    },
     "d02cc3784cd2a444a04c2a89c1884979ab750926": {
       "title": "StumbleBolt OFC",
       "is_056": false,
