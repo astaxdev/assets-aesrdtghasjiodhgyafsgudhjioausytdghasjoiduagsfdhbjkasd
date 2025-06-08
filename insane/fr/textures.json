@@ -55,6 +55,13 @@
       "var_data": "056_toon_data",
       "col": 16
     },
+    "22f36c629289d0be8c476583e0f51fc5da1d1227": {
+      "title": "BoltAstaxZz 0.56",
+      "is_056": true,
+      "var_low": "056_boltastaxzz_low",
+      "var_data": "056_boltastaxzz_data",
+      "col": 2
+    },
     "d02cc3784cd2a444a04c2a89c1884979ab750926": {
       "title": "StumbleBolt OFC",
       "is_056": false,
