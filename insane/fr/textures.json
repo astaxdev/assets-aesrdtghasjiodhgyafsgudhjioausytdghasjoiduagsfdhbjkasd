@@ -13,6 +13,13 @@
       "var_data": "056_stb2_data",
       "col": 7
     },
+    "e2cce776f8e415cf0d9b45fd2c60d469c44ad9a4": {
+      "title": "StumblePink 0.56",
+      "is_056": true,
+      "var_low": "056_stbp_low",
+      "var_data": "056_stbp_data",
+      "col": 14
+    },
     "cbd0fb8091c8e458eea739b7606b3eb8816ff822": {
       "title": "MegaLite 0.56",
       "is_056": true,
