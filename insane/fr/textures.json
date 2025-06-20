@@ -69,6 +69,20 @@
       "var_data": "056_boltastaxzz_data",
       "col": 2
     },
+    "98d1f10378122408fd966d27417cb957c6bb6250": {
+      "title": "StumbleGodz 0.56",
+      "is_056": true,
+      "var_low": "056_godz_low",
+      "var_data": "056_godz_data",
+      "col": 6
+    },
+    "029caaef8d8bbb574c7fccc91bc9aef5b1196634": {
+      "title": "YellowOtimizada 0.56",
+      "is_056": true,
+      "var_low": "056_ylw_low",
+      "var_data": "056_ylw_data",
+      "col": 12
+    },
     "d02cc3784cd2a444a04c2a89c1884979ab750926": {
       "title": "StumbleBolt OFC",
       "is_056": false,
