@@ -48,6 +48,13 @@
       "var_data": "056_re_data",
       "col": 12
     },
+    "d32cc6f19ec89f64cbf3c47f1941f4e424e87783": {
+      "title": "BoltAgua 0.56",
+      "is_056": true,
+      "var_low": "056_boltagua_low",
+      "var_data": "056_boltagua_data",
+      "col": 7
+    },
     "0827e4e5b57d7ac34f34ef8543b800cae4631477": {
       "title": "GotiGreen 0.56",
       "is_056": true,
@@ -74,6 +81,13 @@
       "is_056": true,
       "var_low": "056_stbg_low",
       "var_data": "056_stbg_data",
+      "col": 6
+    },
+    "6daa64d79a6b8ffe9cd73416434dc2244f2d7833": {
+      "title": "Galaxy1 0.56",
+      "is_056": true,
+      "var_low": "056_glxkiro_low",
+      "var_data": "056_glxkiro_data",
       "col": 6
     },
     "029caaef8d8bbb574c7fccc91bc9aef5b1196634": {
