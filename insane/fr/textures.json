@@ -13,6 +13,20 @@
       "var_data": "056_stb2_data",
       "col": 7
     },
+    "98d1f10378122408fd966d27417cb957c6bb6250": {
+      "title": "StumbleGodz 0.56",
+      "is_056": true,
+      "var_low": "056_stbg_low",
+      "var_data": "056_stbg_data",
+      "col": 6
+    },
+    "ac5d29524337b0bace84d48f4ac426e01efcb6a0": {
+      "title": "StumbleGodzExc 0.56",
+      "is_056": true,
+      "var_low": "056_stbgex_low",
+      "var_data": "056_stbgex_data",
+      "col": 6
+    },
     "e2cce776f8e415cf0d9b45fd2c60d469c44ad9a4": {
       "title": "StumblePink 0.56",
       "is_056": true,
@@ -55,6 +69,13 @@
       "var_data": "056_boltagua_data",
       "col": 7
     },
+    "943e968d3ffe4def611bf8c5dfd9efdcfa6c6ad1": {
+      "title": "BoltWeen 0.56",
+      "is_056": true,
+      "var_low": "056_boltween_low",
+      "var_data": "056_boltween_data",
+      "col": 10
+    },
     "0827e4e5b57d7ac34f34ef8543b800cae4631477": {
       "title": "GotiGreen 0.56",
       "is_056": true,
@@ -76,11 +97,11 @@
       "var_data": "056_boltastaxzz_data",
       "col": 2
     },
-    "98d1f10378122408fd966d27417cb957c6bb6250": {
-      "title": "StumbleGodz 0.56",
+    "f826ad3d57dda05b7fd36f6c8ca5a8ed75a5ac2c": {
+      "title": "GalaxyBolt 0.56",
       "is_056": true,
-      "var_low": "056_stbg_low",
-      "var_data": "056_stbg_data",
+      "var_low": "056_glxbolt_low",
+      "var_data": "056_glxbolt_data",
       "col": 6
     },
     "6daa64d79a6b8ffe9cd73416434dc2244f2d7833": {
@@ -88,6 +109,13 @@
       "is_056": true,
       "var_low": "056_glxkiro_low",
       "var_data": "056_glxkiro_data",
+      "col": 6
+    },
+    "2a138e5d18ee3bb27cc2053119872a36da994a7b": {
+      "title": "DarkUva 0.56",
+      "is_056": true,
+      "var_low": "056_dku_low",
+      "var_data": "056_dku_data",
       "col": 6
     },
     "029caaef8d8bbb574c7fccc91bc9aef5b1196634": {
